@@ -1,0 +1,29 @@
+Built-in modules available (+ only avail on Hax):
++ _pixelbuf
+analogio
++ audiocore
++ audioio
+board
+busio
+digitalio
++ displayio
++ gamepad
+math
+microcontroller
+neopixel_write
+nvm
+os
+pulseio
+pwmio
+random
+rotaryio
+rtc
+storage
+struct
+supervisor
++ terminalio
+time
+touchio
+usb_hid
+usb_midi
++ vectorio
